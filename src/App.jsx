@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="container">
       <Card
-        title="Software Engineering"
+        title="Software   Engineering"
         description="A Software Engineer designs, develops, tests, and maintains computer programs and applications."
         image = "https://www.isit.co.in/images/IT-Engineering2.jpg"
       />
