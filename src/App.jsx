@@ -25,7 +25,7 @@ function App() {
       />
 
       <Card
-        title="Information Technology Engeneering"
+        title="IT Engeneering"
         description="Information Technology focuses on managing networks, databases, and information systems."
         image = "https://i0.wp.com/www.gniotgroup.edu.in/blog/wp-content/uploads/2024/04/Information-Technology-1-1024x462-1.webp?resize=640%2C289&ssl=1"
       />
