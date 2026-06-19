@@ -19,13 +19,13 @@ function App() {
   return (
     <div className="container">
       <Card
-        title="Software   Engineering"
+        title="Software Engineering"
         description="A Software Engineer designs, develops, tests, and maintains computer programs and applications."
         image = "https://www.isit.co.in/images/IT-Engineering2.jpg"
       />
 
       <Card
-        title="Information Technology"
+        title="Information Technology Engeneering"
         description="Information Technology focuses on managing networks, databases, and information systems."
         image = "https://i0.wp.com/www.gniotgroup.edu.in/blog/wp-content/uploads/2024/04/Information-Technology-1-1024x462-1.webp?resize=640%2C289&ssl=1"
       />
